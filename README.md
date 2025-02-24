@@ -2,6 +2,7 @@ Hey there! I'm Abigael Wanjiku, an aspiring Full Stack Developer currently enrol
 
 🎯 Goals & Interests
 🔹 Master programming fundamentals and problem-solving skills
+
 🔹 Build and contribute to real-world projects
 🔹 Learn more about web development and backend technologies
 🔹 Explore open-source contributions and coding challenges
