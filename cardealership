@@ -1,1 +1,2 @@
-
+npm create vite@latest cardealership --template react
+npm create vite@latest cardealership  -- --template react
